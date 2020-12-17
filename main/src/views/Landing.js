@@ -1,4 +1,4 @@
-import './App.css';
+import './Views.css';
 
 function Landing() {
   return (
